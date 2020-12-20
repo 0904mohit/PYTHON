@@ -1,2 +1,2 @@
-# Netz_Python
-Netz_Python assignment
+#Python
+Here is my all the code that i have practice to learn Python...
