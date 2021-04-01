@@ -1,2 +1,3 @@
-#Python
-Here is my all the code that i have practice to learn Python...
+# PYTHON PRACTICE
+- Hey Folks.. Thanks for visiting my github repo..
+- In this repo i have uploaded my learning in Basic python..
