@@ -12,3 +12,4 @@
   - OOps Concept
   - Matplotlib
   - Seaborn
+- Linkedin_URL: https://www.linkedin.com/posts/mo2614_datajobs-datasciencejobs-datascientists-activity-6783102613681532928-Ddbo
