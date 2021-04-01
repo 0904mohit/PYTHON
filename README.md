@@ -1,3 +1,14 @@
 # PYTHON PRACTICE
 - Hey Folks.. Thanks for visiting my github repo..
 - In this repo i have uploaded my learning in Basic python..
+- It covers basic concepts like:
+  - Data Structure
+  - Operators
+  - File Handling
+  - Exceptional Handling
+  - NUmpy
+  - Pandas
+  - Loops
+  - OOps Concept
+  - Matplotlib
+  - Seaborn
